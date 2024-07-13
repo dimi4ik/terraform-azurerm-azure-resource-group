@@ -130,10 +130,9 @@ It currently supports the automated installation for macOS. Support for Windows 
 
 
 Terraform module which creates an S3 bucket that can host a static website
-### Usage
+### Create Module
 
-
-'
+```
 git init && git add -A
 git commit -m "add all module files" && git branch -M main
 git remote add origin https://github.com/<github_account_name>/<new_repo_name>.git
@@ -141,12 +140,16 @@ git push -u origin main
 git tag -a "v0.0.1" -m "First release of s3-website module" 
 git push --follow-tags
 https://medium.com/nerd-for-tech/terraform-modules-101-create-version-and-publish-on-github-4455f3673559
-'
+```
 
+
+### Use Module
+
+```
 module "terraform_azure_modul_demo" {
   source = "github.com/dimi4ik/terraform_azure_modul_demo"
 }
-
+```
 
 
 ### Synchronisation
