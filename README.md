@@ -21,7 +21,7 @@
 
 ## Introduction
 
-This is a template for Terraform modules Best Pract
+This is a template for Terraform modules Best Practic
 
 It is part of our [XOAP](https://xoap.io) Automation Forces Open Source community library to give you a quick start into Infrastructure as Code deployments with Terraform.
 
