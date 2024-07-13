@@ -1,9 +1,9 @@
 ################################################################
 # Resource Group                                               #
-# 							       #
+# 							                                               #
 # This resource block defines an Azure Resource Group.         #
 # It creates a resource group with the specified name,location #
-# and tags.  						       #
+# and tags.  						                                       #
 #################################################################
 
 resource "azurerm_resource_group" "main_rg" {
