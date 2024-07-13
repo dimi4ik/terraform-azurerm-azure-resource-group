@@ -147,7 +147,7 @@ https://medium.com/nerd-for-tech/terraform-modules-101-create-version-and-publis
 
 ```
 module "terraform_azure_modul_demo" {
-  source = "github.com/dimi4ik/terraform_azure_modul_demo"
+  source = "github.com/dimi4ik/TERRAFORM-AZURE-RG-MVD?ref=v0.0.2" 
 }
 ```
 
