@@ -5,7 +5,6 @@
   - resource_group_name: The name of the resource group.
   - resource_group_id: The generated ID of the resource group.
   - resource_group_location: The location (region) of the resource group.
-  - test lauf
 */
 
 output "resource_group_name" {
