@@ -23,7 +23,7 @@
 
 This is a template for Terraform modules Best Practic
 
-It is part of our [Dima](https://xoap.io) Automation Forces Open Source community library to give you a quick start into Infrastructure as Code deployments with Terraform.
+It is part of our [Dima](https://dima.io) Automation Forces Open Source community library to give you a quick start into Infrastructure as Code deployments with Terraform.
 
 We have a lot of Terraform modules that are Open Source and maintained by the [XOAP](https://xoap.io) staff.
 
